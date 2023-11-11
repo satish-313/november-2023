@@ -7,5 +7,5 @@ import (
 
 func main() {
 	fmt.Println("November")
-	code.Test10()
+	code.Test1()
 }
